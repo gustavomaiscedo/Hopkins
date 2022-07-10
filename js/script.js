@@ -345,3 +345,4 @@ function insertItemPortionName(html,
 global.$dc = dc;
 
 })(window);
+console.log("Hello");
